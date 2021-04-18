@@ -7,6 +7,8 @@ The board shows all the inputs and outputs of the IC, so they can be manipoulate
 
 Version 1.2 is a much simpler board than 1.1, without the AtTiny for the auto mode. 1.2 is also all through-hole parts, to use as a soldering kit.
 
+The files for both versions are currently a mess, so I want to clean them more before uploading.
+
 ## Current Release
 Version 1.2
 
