@@ -9,6 +9,9 @@ Version 1.2 is a much simpler board than 1.1, without the AtTiny for the auto mo
 
 The files for both versions are currently a mess, so I want to clean them more before uploading.
 
+## Photos & Media
+Photos of the project can be found on my portfolio, [here](https://www.jim-heaney.com/74ls47-learning-board.html).
+
 ## Current Release
 Version 1.2
 
