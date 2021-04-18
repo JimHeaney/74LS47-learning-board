@@ -5,11 +5,13 @@ I designed this board to demonstrate how to use the 74LS47, so you do not have t
 
 The board shows all the inputs and outputs of the IC, so they can be manipoulated to see what impact it has on operation. The output can be swapped from a set of LEDs to a 7-segment display. There is also an "auto" mode, where an AtTiny 85 increments through the BCD codes automatically. 
 
+Version 1.2 is a much simpler board than 1.1, without the AtTiny for the auto mode. 1.2 is also all through-hole parts, to use as a soldering kit.
+
 ## Current Release
-Version 1.1
+Version 1.2
 
 ## Current State
-The 74Ls47 Learning Board is currently on hold. I have changes I want to make in the future but I do not know when I'll get to them.
+The 74LS47 Learning Board is currently on hold. I have changes I want to make in the future but I do not know when I'll get to them.
 
 ## Featured In...
 [Microchip Makes](https://www.instagram.com/p/CFItODCHH4G/)
